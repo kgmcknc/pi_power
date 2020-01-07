@@ -1,0 +1,8 @@
+# Ignore Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
